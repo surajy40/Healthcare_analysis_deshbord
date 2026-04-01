@@ -1,7 +1,7 @@
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/healthcare-dashboard.git
+git clone https://github.com/surajy40/Healthcare_analysis_deshbord
 cd healthcare-dashboard
 
 # 🏥 Healthcare Insights Dashboard
